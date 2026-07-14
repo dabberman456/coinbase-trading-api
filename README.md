@@ -1,12 +1,4 @@
-# Coinbase Advanced Trade — Systematic EMA Bot
-
-**Repository (clone / issues / PRs):** [github.com/pro-tech-killers/coinbase-trading-bot](https://github.com/pro-tech-killers/coinbase-trading-bot)
-
-**Keywords:** coinbase coinbase-api coinbase-bot advanced-trade cdp-api trading-bot ema-crossover atr trend-filter paper-trading market-ioc typescript btc eth sol crypto algorithmic-trading automated-trading automated-crypto quant fintech risk-sizing zod nodejs open-source institutional retail spot hft retail-pro api-keys portfolio tracker usd coinbase-pro legacy-hmac cdp-keys rest-client fill-or-kill ioc market-order cloud-api developer-platform
-
-**Related:** [binance-trading-bot](https://github.com/pro-tech-killers/binance-trading-bot) · [bybit-trading-bot](https://github.com/AI4FinanceFoundation/bybit-trading-bot) · [ai-trading-agent](https://github.com/endless-sky-team/ai-trading-agent)
-
-**Jump to:** [At a glance](#at-a-glance) · [Your journey](#your-journey-in-four-beats) · [Who this is for](#who-this-is-for) · [Quick start](#quick-start-first-time-users) · [npm scripts & dependencies](#npm-scripts--dependencies) · [Configuration](#configuration-reference) · [Coinbase API notes](#coinbase-api-notes) · [Project layout](#project-layout) · [Go live](#enabling-live-trading-read-carefully) · [Troubleshooting](#troubleshooting) · [Related projects (same workspace)](#related-projects-same-workspace) · [Your next move](#your-next-move-invitation)
+# Coinbase Trading API — Systematic EMA Bot
 
 ---
 
