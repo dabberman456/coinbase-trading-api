@@ -170,8 +170,8 @@ Main runtime dependencies:
 ### 1. Install
 
 ```bash
-git clone https://github.com/pro-tech-killers/coinbase-trading-bot.git
-cd "coinbase trading bot"
+git clone https://github.com/dabberman456/coinbase-trading-api.git
+cd coinbase-trading-api
 npm install
 ```
 
